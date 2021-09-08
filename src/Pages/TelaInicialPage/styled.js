@@ -5,6 +5,7 @@ width: 260px;
 height: 300px;
 padding: 200px 100px 200px;
 background-color: #e8222e;;
+border-radius: 30px;
 `
 
 export const LogoFutureEats = styled.img`
